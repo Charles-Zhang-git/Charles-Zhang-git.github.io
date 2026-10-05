@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[4228,["755","static/chunks/app/thank-you/page-67e52eaca2adc921.js"],"default"]
+3:I[887,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"id":"main","className":"content-page wrap thank-you-page","children":[["$","$L2",null,{"iconNode":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"m9 12 2 2 4-4","key":"dzmm74"}]],"className":"lucide-circle-check","size":44,"strokeWidth":1.4}],["$","span",null,{"className":"eyebrow","children":"COMMUNITY CONSULTATION"}],["$","h1",null,{"children":"Thank you for sharing."}],["$","p",null,{"children":"Your feedback has been submitted to the project team. We’ll review your thoughts and follow up using the email address you provided after the feedback collection."}],["$","p",null,{"children":["For questions about your feedback, contact ",["$","a",null,{"href":"mailto:Rui@horizondc.ca","children":"Rui@horizondc.ca"}],"."]}],["$","a",null,{"className":"button primary","href":"/","children":"Return to home"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"95d8vCgfbmJ6FkhAs9Jz3"}
+5:null
